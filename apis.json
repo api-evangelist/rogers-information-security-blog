@@ -1,0 +1,44 @@
+{
+    "name": "Rogers Information Security Blog",
+    "description": "",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Roger_s_Information_Security_Blog_-_Since_2004__a_source_for_ranting__reviews_and_InfoSec_news.png",
+    "tags": [
+        "have api",
+        "security blogs"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/rogers-information-security-blog\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Rogers Information Security Blog",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Roger_s_Information_Security_Blog_-_Since_2004__a_source_for_ranting__reviews_and_InfoSec_news.png",
+            "humanURL": "https:\/\/www.infosecblog.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/rogers-information-security-blog-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.infosecblog.org\/feed"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/infosectweet"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.infosecblog.org\/"
+        }
+    ]
+}
